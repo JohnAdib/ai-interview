@@ -10,7 +10,7 @@ Use Node.js 22 or newer and pnpm 10. Install dependencies with `pnpm install`, t
 - Web: http://localhost:5173
 - Mobile: Expo prints a QR code and development-server URL. Use an Android/iOS simulator or Expo Go. On a physical device, set `EXPO_PUBLIC_API_URL` to an address reachable from that device, such as your computer's LAN address with port 4100. Localhost on a phone points to the phone itself.
 
-You can explore the code and open issues in advance. During the session, choose the work you think is most valuable, explain your reasoning, and create a pull request. Be prepared to review and discuss your changes. You do not need to complete every issue.
+You can explore the code and open issues in advance. Fork this repository to your own GitHub account so you can push changes and open a pull request back to this repository. During the session, choose the work you think is most valuable, explain your reasoning, and create a pull request. Be prepared to review and discuss your changes. You do not need to complete every issue.
 
 ## Commands
 
