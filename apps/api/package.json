@@ -1,0 +1,1 @@
+{"name":"@reading-room/api","private":true,"type":"module","scripts":{"dev":"node --watch src/server.js","test":"node --test"}}
