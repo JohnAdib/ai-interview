@@ -1,6 +1,8 @@
-# Reading Room
+# AI Interview
 
 A small interview exercise about a shared reading list. The workspace contains a Node.js API, a React web client and an Expo mobile app. The data is held in memory and resets when the API restarts.
+
+Read the article: [The AI Coding Interview Should Test How Engineers Think](https://mradib.com/ai-coding-interview).
 
 ## Before the session
 
